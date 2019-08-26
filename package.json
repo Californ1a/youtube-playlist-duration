@@ -1,0 +1,24 @@
+{
+  "name": "youtube-playlist-duration",
+  "version": "1.0.0",
+  "description": "Chrome extension which restores the handy playlist length feature that has been deprecated by YouTube.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Californ1a/youtube-playlist-duration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Californ1a/youtube-playlist-duration/issues"
+  },
+  "homepage": "https://github.com/Californ1a/youtube-playlist-duration#readme",
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
